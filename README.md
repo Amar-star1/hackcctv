@@ -8,13 +8,13 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://https://github.com/Amar-star1/hackcctv
 
 * pip3 install requests
 
-* cd Cam-Hackers
+* cd hackcctv
 
-* python3 cam-hackers.py
+* python3 cctv.py
 
 # CAM-HACKERS
 
@@ -25,5 +25,3 @@ Hack Cameras
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
 
 <h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
